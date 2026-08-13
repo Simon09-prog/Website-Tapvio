@@ -5,9 +5,18 @@
       "name": "NFC-Aufsteller",
       "beschreibung": "Google-Bewertungen, Instagram-Follower oder TikTok — ein Tap oder Scan führt Kunden direkt zur Seite.",
       "preise": [
-        { "menge": "1 Aufsteller", "preis": "35€" },
-        { "menge": "2 Aufsteller", "preis": "65€" },
-        { "menge": "3 Aufsteller", "preis": "85€" }
+        {
+          "menge": "1 Aufsteller",
+          "preis": "36€"
+        },
+        {
+          "menge": "2 Aufsteller",
+          "preis": "65€"
+        },
+        {
+          "menge": "3 Aufsteller",
+          "preis": "85€"
+        }
       ]
     },
     {
@@ -15,10 +24,22 @@
       "name": "Personalisierter Aufsteller",
       "beschreibung": "Aufsteller mit eigenem Logo, Farben und Branding — Design-Erstellung inklusive.",
       "preise": [
-        { "menge": "1 Aufsteller", "preis": "60€ inkl. Design" },
-        { "menge": "2 Aufsteller", "preis": "100€" },
-        { "menge": "3 Aufsteller", "preis": "140€" },
-        { "menge": "jeder weitere", "preis": "+40€" }
+        {
+          "menge": "1 Aufsteller",
+          "preis": "60€ inkl. Design"
+        },
+        {
+          "menge": "2 Aufsteller",
+          "preis": "100€"
+        },
+        {
+          "menge": "3 Aufsteller",
+          "preis": "140€"
+        },
+        {
+          "menge": "jeder weitere",
+          "preis": "+40€"
+        }
       ]
     },
     {
@@ -26,7 +47,10 @@
       "name": "Google-Bewertungssticker",
       "beschreibung": "Flacher Sticker für Tresen, Tisch oder Kasse — ein Antippen führt direkt zur Google-Bewertungsseite.",
       "preise": [
-        { "menge": "pro Sticker", "preis": "25€" }
+        {
+          "menge": "pro Sticker",
+          "preis": "25€"
+        }
       ]
     },
     {
@@ -34,8 +58,14 @@
       "name": "Speisekarten-Sticker",
       "beschreibung": "Digitale Speisekarte per Tap — Änderungen jederzeit online.",
       "preise": [
-        { "menge": "bis 19 Stück", "preis": "2,00€/Stück" },
-        { "menge": "ab 20 Stück", "preis": "1,50€/Stück" }
+        {
+          "menge": "bis 19 Stück",
+          "preis": "2,00€/Stück"
+        },
+        {
+          "menge": "ab 20 Stück",
+          "preis": "1,50€/Stück"
+        }
       ]
     },
     {
@@ -43,8 +73,14 @@
       "name": "WLAN-Sticker",
       "beschreibung": "Gäste verbinden sich per Tap automatisch mit dem WLAN.",
       "preise": [
-        { "menge": "bis 19 Stück", "preis": "2,00€/Stück" },
-        { "menge": "ab 20 Stück", "preis": "1,50€/Stück" }
+        {
+          "menge": "bis 19 Stück",
+          "preis": "2,00€/Stück"
+        },
+        {
+          "menge": "ab 20 Stück",
+          "preis": "1,50€/Stück"
+        }
       ]
     }
   ]
